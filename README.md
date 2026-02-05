@@ -4,7 +4,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&color=38BDF8&size=24&center=true&vCenter=true&width=750&height=90&lines=Full+Stack+Developer;Co-Founder+at+Kasa+Tech+Solutions;Building+Digital+Products;Turning+Ideas+Into+Scalable+Solutions" 
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&color=38BDF8&size=24&center=true&vCenter=true&width=750&height=90&lines=Full+Stack+Developer;Co-Founder+at+KASA+TECH+SOLUTIONS;Frontend+Developer;Backend+Developer" 
   />
 </p>
 
