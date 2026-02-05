@@ -1,7 +1,7 @@
 <h1 align="center">
   ¡Hola! Soy Tracy Moriano 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40" />
+  💻
 </h1>
 
 <p align="center">
