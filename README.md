@@ -6,7 +6,7 @@
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/your-username/your-repo/main/character.png"
+    src="https://media.licdn.com/dms/image/v2/D4E12AQG4qJbFTDXl-A/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1678257429990?e=2147483647&v=beta&t=qR6yN_HH4wYzcFh_K1a4lNNDNNbkQr8jnU0MeQkVxZk"
     width="220"
     alt="Tech Girl Character"
   />
