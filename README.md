@@ -1,7 +1,52 @@
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:38BDF8&height=260&section=header"
-  width="100%"
-/>
+<svg width="100%" height="300" viewBox="0 0 1440 300" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%">
+        <animate attributeName="stop-color"
+          values="#7C3AED;#22C55E;#EC4899;#FACC15;#7C3AED"
+          dur="10s"
+          repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%">
+        <animate attributeName="stop-color"
+          values="#22C55E;#EC4899;#FACC15;#7C3AED;#22C55E"
+          dur="10s"
+          repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%">
+        <animate attributeName="stop-color"
+          values="#EC4899;#FACC15;#7C3AED;#22C55E;#EC4899"
+          dur="10s"
+          repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Ola 1 -->
+  <path fill="url(#waveGradient)" opacity="0.6">
+    <animate attributeName="d"
+      dur="12s"
+      repeatCount="indefinite"
+      values="
+      M0,160 C240,200 480,120 720,140 960,160 1200,220 1440,180 L1440,0 L0,0 Z;
+      M0,140 C240,120 480,200 720,180 960,160 1200,120 1440,160 L1440,0 L0,0 Z;
+      M0,160 C240,200 480,120 720,140 960,160 1200,220 1440,180 L1440,0 L0,0 Z
+      " />
+  </path>
+
+  <!-- Ola 2 -->
+  <path fill="url(#waveGradient)" opacity="0.9">
+    <animate attributeName="d"
+      dur="8s"
+      repeatCount="indefinite"
+      values="
+      M0,200 C360,160 720,240 1080,200 1320,180 1440,220 1440,220 L1440,0 L0,0 Z;
+      M0,180 C360,220 720,160 1080,220 1320,240 1440,180 1440,180 L1440,0 L0,0 Z;
+      M0,200 C360,160 720,240 1080,200 1320,180 1440,220 1440,220 L1440,0 L0,0 Z
+      " />
+  </path>
+</svg>
+
 
 <h1 align="center">
   ¡Hola! Soy Tracy Moriano 👋
