@@ -5,6 +5,14 @@
 </h1>
 
 <p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/your-username/your-repo/main/character.png"
+    width="220"
+    alt="Tech Girl Character"
+  />
+</p>
+
+<p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&color=38BDF8&size=26&center=true&vCenter=true&width=900&height=90&lines=Full+Stack+Developer;Co-Founder+at+Kasa+Tech+Solutions;Web+%26+Mobile+Apps;Chatbots+Inteligentes+24/7"
   />
