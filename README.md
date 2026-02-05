@@ -65,16 +65,16 @@ En cada proyecto priorizo **claridad, rendimiento y una base técnica sólida**.
 
 <p align="left">
   <a href="https://wa.me/51906936891" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_sooymor/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/hanna.mt.1238" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tracymooor/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
