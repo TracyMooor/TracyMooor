@@ -1,30 +1,3 @@
-<img width="100%" src="data:image/svg+xml;utf8,
-<svg viewBox='0 0 1440 320' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'>
-<defs>
-<linearGradient id='g'>
-<stop offset='0%'>
-<animate attributeName='stop-color'
-values='%237C3AED;%2322C55E;%23EC4899;%23FACC15;%237C3AED'
-dur='12s' repeatCount='indefinite'/>
-</stop>
-<stop offset='100%'>
-<animate attributeName='stop-color'
-values='%2322C55E;%23EC4899;%23FACC15;%237C3AED;%2322C55E'
-dur='12s' repeatCount='indefinite'/>
-</stop>
-</linearGradient>
-</defs>
-
-<path fill='url(%23g)'>
-<animate attributeName='d' dur='10s' repeatCount='indefinite'
-values='
-M0,160 C240,220 480,120 720,160 960,200 1200,240 1440,200 L1440,0 L0,0 Z;
-M0,180 C240,140 480,240 720,180 960,120 1200,180 1440,160 L1440,0 L0,0 Z;
-M0,160 C240,220 480,120 720,160 960,200 1200,240 1440,200 L1440,0 L0,0 Z
-'/>
-</path>
-</svg>" />
-
 
 <h1 align="center">
   ¡Hola! Soy Tracy Moriano 👋
