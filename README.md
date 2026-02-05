@@ -1,3 +1,9 @@
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:38BDF8&height=220&section=header&animation=fadeIn"
+  />
+</p>
+
 <h1 align="center">
   ¡Hola! Soy Tracy Moriano 👋
 </h1>
