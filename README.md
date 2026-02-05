@@ -4,7 +4,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&color=38BDF8&size=24&center=true&vCenter=true&width=700&height=90&lines=Full+Stack+Developer;Building+Digital+Solutions;Web+%26+Intelligent+Systems;Turning+Ideas+Into+Real+Products" 
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&color=38BDF8&size=24&center=true&vCenter=true&width=750&height=90&lines=Full+Stack+Developer;Co-Founder+at+Kasa+Tech+Solutions;Building+Digital+Products;Turning+Ideas+Into+Scalable+Solutions" 
   />
 </p>
 
@@ -16,21 +16,21 @@ Soy **Desarrolladora Full Stack** enfocada en crear **soluciones digitales compl
 
 Me especializo en desarrollar plataformas web y sistemas inteligentes que **refuerzan la imagen digital**, optimizan procesos y ayudan a marcas personales y negocios a posicionarse con confianza.
 
-Siempre busco que cada proyecto sea **funcional, escalable y bien pensado**, más allá de lo visual.
+Siempre busco que cada proyecto sea funcional, escalable y bien pensado, más allá de lo visual.
 
 ---
 
-## 🚀 Mi enfoque
+## 🚀 Lo que hago
 
-- 🔹 Desarrollo soluciones **end-to-end**
-- 🔹 Diseño experiencias digitales claras y confiables
-- 🔹 Construyo sistemas listos para crecer
-- 🔹 Integro automatización e inteligencia cuando aporta valor
-- 🔹 Transformo ideas en productos digitales reales
+- Desarrollo **plataformas web end-to-end**
+- Diseño experiencias digitales que transmiten confianza
+- Construyo sistemas backend robustos y escalables
+- Integro automatización e inteligencia cuando aporta valor
+- Acompaño proyectos desde la estrategia hasta producción
 
 ---
 
-## 🧰 Mi arsenal tecnológico
+## 🧰 Stack & Tecnologías
 
 ### 🖥️ Frontend
 <p>
@@ -42,19 +42,22 @@ Siempre busco que cada proyecto sea **funcional, escalable y bien pensado**, má
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,sqlite,supabase" />
 </p>
 
-### 🔧 Flujo de trabajo & colaboración
+### 🔧 Flujo de trabajo
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,discord,gmail,vscode" />
 </p>
 
 ---
 
-## 🌐 Proyectos & Experiencia
+## 🌐 Proyectos Destacados
 
-Trabajo en proyectos para **marcas personales, ecommerce y plataformas web** que buscan una presencia digital sólida y profesional.
+🔹 **Portafolio Personal**  
+👉 https://tracyportafolioweb.vercel.app/
 
-Puedes ver algunos de mis proyectos aquí:  
-👉 **https://kasa-tech-solutions.vercel.app/**
+🔹 **Co-Founder | Kasa Tech Solutions**  
+👉 https://kasa-tech-solutions.vercel.app/
+
+En cada proyecto priorizo **claridad, rendimiento y una base técnica sólida**.
 
 ---
 
@@ -79,6 +82,6 @@ Puedes ver algunos de mis proyectos aquí:
 
 <p align="center">
   <i>
-    “Building digital solutions that people trust and businesses rely on.”
+    Construyendo productos digitales que crecen con las personas y las empresas.
   </i>
 </p>
