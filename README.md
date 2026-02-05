@@ -5,20 +5,11 @@
 </h1>
 
 <p align="center">
-  <img 
-    src="https://media.licdn.com/dms/image/v2/D4E12AQG4qJbFTDXl-A/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1678257429990?e=2147483647&v=beta&t=qR6yN_HH4wYzcFh_K1a4lNNDNNbkQr8jnU0MeQkVxZk"
-    width="220"
-    alt="Tech Girl Character"
-  />
-</p>
-
-<p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&color=38BDF8&size=26&center=true&vCenter=true&width=900&height=90&lines=Full+Stack+Developer;Co-Founder+at+Kasa+Tech+Solutions;Web+%26+Mobile+Apps;Chatbots+Inteligentes+24/7"
   />
 </p>
 
-<hr>
 
 ## ✨ Sobre mí
 
