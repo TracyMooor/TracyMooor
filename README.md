@@ -1,16 +1,15 @@
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:38BDF8&height=220&section=header&animation=fadeIn"
-  />
-</p>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:38BDF8&height=260&section=header"
+  width="100%"
+/>
 
 <h1 align="center">
   ¡Hola! Soy Tracy Moriano 👋
 </h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&color=38BDF8&size=24&center=true&vCenter=true&width=750&height=90&lines=Full+Stack+Developer;Co-Founder+at+KASA+TECH+SOLUTIONS;Frontend+Developer;Backend+Developer" 
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&color=38BDF8&size=24&center=true&vCenter=true&width=800&height=80&lines=Full+Stack+Developer;Co-Founder+at+Kasa+Tech+Solutions;Web+%26+Mobile+Apps;Chatbots+Inteligentes+24/7"
   />
 </p>
 
