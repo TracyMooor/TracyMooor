@@ -55,9 +55,6 @@ Siempre busco que cada proyecto sea funcional, escalable y bien pensado, más al
 🔹 **Portafolio Personal**  
 👉 https://tracyportafolioweb.vercel.app/
 
-🔹 **Co-Founder | Kasa Tech Solutions**  
-👉 https://kasa-tech-solutions.vercel.app/
-
 En cada proyecto priorizo **claridad, rendimiento y una base técnica sólida**.
 
 ---
