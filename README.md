@@ -1,68 +1,23 @@
-<!-- ========================================= -->
-
-<!--           TRACY MORIANO README            -->
-
-<!-- ========================================= -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6A5ACD,25:00BFFF,50:7B68EE,75:FF69B4,100:00FFFF&text=TRACY%20MORIANO&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-
-</div>
-
-<div align="center">
-
-# 𝕿𝖗𝖆𝖈𝖞 𝕸𝖔𝖗𝖎𝖆𝖓𝖔
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=1200&height=100&lines=Full+Stack+Developer;Web+%26+Mobile+Apps;Chatbots+Inteligentes+24%2F7;Frontend+Developer;Backend+Developer"/>
-
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=tracymoriano&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge"/>
+<div align="center">
+
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%"/>
 
 </div>
 
 ---
 
+# ⚡ DASHBOARD
+
 <div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
-</div>
-
-# ✦ SOBRE MÍ
 
 <table>
 <tr>
-<td width="65%">
 
-Soy **Desarrolladora Full Stack** enfocada en crear **soluciones digitales completas**, combinando diseño, lógica, arquitectura y experiencia de usuario.
+<td width="33%" align="center">
 
-Me especializo en desarrollar plataformas web y sistemas inteligentes que **refuerzan la imagen digital**, optimizan procesos y ayudan a marcas personales y negocios a posicionarse con confianza.
-
-Siempre busco que cada proyecto sea funcional, escalable y bien pensado, más allá de lo visual.
-
-</td>
-
-<td width="35%">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%">
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-
-<table align="center">
-<tr>
-
-<td align="center" width="33%">
-
-<img width="70" src="https://cdn-icons-png.flaticon.com/512/2721/2721267.png">
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="90">
 
 ### Desarrollo Full Stack
 
@@ -70,9 +25,9 @@ Aplicaciones completas de principio a fin.
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-<img width="70" src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="90">
 
 ### Arquitectura Escalable
 
@@ -80,9 +35,9 @@ Sistemas preparados para crecer.
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-<img width="70" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhmODU2M2Q3ZDY4MjU0NTU0Nzg4NGE2YTU4OGNhYTZiYjQ2NTM4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="90">
 
 ### Automatización
 
@@ -93,104 +48,146 @@ Procesos inteligentes y eficientes.
 </tr>
 </table>
 
-# ⚡ LO QUE HAGO
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7B68EE&height=3&section=header"/>
+---
+
+# 🌐 ECOSISTEMA TECNOLÓGICO
+
+```mermaid
+mindmap
+  root((Tracy Moriano))
+
+    Frontend
+      HTML
+      CSS
+      JavaScript
+      React
+
+    Backend
+      NodeJS
+      Express
+
+    Databases
+      MySQL
+      PostgreSQL
+      MongoDB
+      SQLite
+      Supabase
+
+    Herramientas
+      Git
+      GitHub
+      VSCode
+
+    Soluciones
+      Chatbots
+      Web Apps
+      Mobile Apps
+```
+
+---
+
+# 🚀 STACK PRINCIPAL
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,postgres,mongodb,sqlite,supabase&perline=6" />
 
 </div>
+
+---
+
+# ⚙️ FLUJO DE DESARROLLO
+
+```mermaid
+flowchart LR
+
+A["🎨 Diseño"] --> B["⚡ Frontend"]
+
+B --> C["🔥 Backend"]
+
+C --> D["🛢️ Base de Datos"]
+
+D --> E["☁️ Deploy"]
+
+E --> F["🚀 Producción"]
+```
+
+---
+
+# 🖥️ ARQUITECTURA
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="85%"/>
+
+</div>
+
+---
+
+# 📊 TECNOLOGÍAS
+
+<div align="center">
 
 <table>
 <tr>
+
 <td align="center">
 
-🌐
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80">
 
-### Desarrollo
-
-Plataformas web end-to-end
+### React
 
 </td>
 
 <td align="center">
 
-🎨
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80">
 
-### Diseño
-
-Experiencias digitales que transmiten confianza
+### NodeJS
 
 </td>
 
 <td align="center">
 
-⚙️
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80">
 
-### Backend
-
-Sistemas robustos y escalables
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-🤖
-
-### IA
-
-Automatización e inteligencia
+### PostgreSQL
 
 </td>
 
 <td align="center">
 
-🚀
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80">
 
-### Producción
-
-De la estrategia hasta producción
+### MongoDB
 
 </td>
 
-<td align="center">
-
-📈
-
-### Escalabilidad
-
-Arquitecturas preparadas para crecer
-
-</td>
 </tr>
 </table>
 
----
-
-# 🧰 STACK & TECNOLOGÍAS
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,postgres,mongodb,sqlite,supabase,git,github,vscode,discord,gmail&perline=8"/>
-
 </div>
 
-<br>
+---
+
+# 🌟 EXPERIENCIA DIGITAL
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tracymoriano&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="500"/>
 
 </div>
 
 ---
 
-# 🚀 PROYECTOS DESTACADOS
+# 🌐 PROYECTO DESTACADO
 
 <div align="center">
 
 <a href="https://tracyportafolioweb.vercel.app/">
-<img src="https://img.shields.io/badge/PORTAFOLIO%20PERSONAL-00E5FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+<img src="https://img.shields.io/badge/VER%20PORTAFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
 </div>
@@ -205,62 +202,32 @@ En cada proyecto priorizo **claridad, rendimiento y una base técnica sólida**.
 
 ---
 
-# 📊 ACTIVIDAD
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tracymoriano&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracymoriano&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tracymoriano&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🌌 CONTRIBUCIONES
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 # 🤝 CONECTEMOS
 
 <div align="center">
 
 <a href="https://wa.me/51906936891">
-<img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
 </a>
 
 <a href="https://www.instagram.com/_sooymor/">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF4DA6"/>
+<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=FF4D8D"/>
 </a>
 
 <a href="https://www.facebook.com/hanna.mt.1238">
-<img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/Facebook-111111?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tracymooor/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
 </a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:6A5ACD,25:00BFFF,50:7B68EE,75:FF69B4,100:00FFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00E5FF,50:7B68EE,100:FF4DA6&section=footer"/>
 
 </div>
