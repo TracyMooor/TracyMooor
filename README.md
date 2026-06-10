@@ -1,145 +1,173 @@
-````html
-<!-- ════════════════════════════════════════════════ -->
-<!--               HERO 3D CYBERPUNK                -->
-<!-- ════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00DBDE,50:FC00FF,100:7F00FF&text=TRACY%20MORIANO&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=FULL%20STACK%20DEVELOPER&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,20:1E293B,50:0EA5E9,80:7C3AED,100:EC4899&text=TRACY%20MORIANO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20DIGITAL%20CREATOR&descAlignY=60"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=1200&height=100&lines=⚡+FULL+STACK+DEVELOPER;🚀+WEB+%26+MOBILE+APPLICATIONS;🤖+AI+CHATBOTS+24%2F7;💎+SCALABLE+SYSTEMS;🌌+DIGITAL+EXPERIENCES" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tracymoor&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=34&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=1000&lines=⚡+Building+Next+Generation+Applications;🚀+Full+Stack+Developer;🌐+Web+%26+Mobile+Solutions;🤖+Intelligent+Automation+Systems;✨+Transforming+Ideas+Into+Digital+Experiences"/>
 
 </div>
 
 ---
 
-# ◈ DIGITAL ARCHITECT
+# <img width="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"> About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdnOGE0OHJjcGh3bGYxOXV0OGQ5YzR4bW94M2QwMm9iYzI4MHB4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif"/>
+```yaml
+Name: Tracy Moriano
 
-### ✦ Quién soy
+Role: Full Stack Developer
 
-Soy **Tracy Moriano**, desarrolladora Full Stack especializada en construir plataformas modernas, escalables y visualmente impactantes.
+Location: Peru 🇵🇪
 
-Mi enfoque combina:
+Mission:
+  - Build scalable digital products
+  - Create memorable user experiences
+  - Transform business ideas into software
 
-◈ Arquitectura de Software
-
-◈ Diseño de Experiencia de Usuario
-
-◈ Desarrollo Frontend Moderno
-
-◈ Backend Escalable
-
-◈ Automatización Inteligente
-
-◈ Soluciones Digitales de Alto Impacto
-
-<br>
+Focus:
+  Frontend Development
+  Backend Architecture
+  Web Platforms
+  Intelligent Systems
+  Automation Solutions
+```
 
 ---
 
-# ◈ TECH UNIVERSE
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,nodejs,express,mysql,postgres,mongodb,supabase,firebase,git,github,vscode&perline=9" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-| Frontend | Backend | Databases | Tools |
-|-----------|-----------|-----------|-----------|
-| React ⚛️ | Node.js ⚙️ | PostgreSQL 🐘 | Git 🔥 |
-| Next.js ▲ | Express 🚀 | MySQL 🛢️ | GitHub 🌌 |
-| JavaScript ✨ | APIs REST 🌐 | MongoDB 🍃 | VS Code 💎 |
-| Tailwind 🎨 | Authentication 🔐 | Supabase ⚡ | Vercel ☁️ |
+<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia&row=1&column=7&margin-w=15"/>
 
 </div>
 
 ---
 
-# ◈ DEVELOPMENT MATRIX
+# ⚡ Tech Arsenal
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────┐
-│ FRONTEND      ████████████████████ 95%       │
-│ BACKEND       ██████████████████░ 92%        │
-│ DATABASES     █████████████████░░ 90%        │
-│ UI/UX         ███████████████████ 94%        │
-│ DEPLOYMENT    █████████████████░░ 90%        │
-│ AUTOMATION    ████████████████░░░ 88%        │
-└──────────────────────────────────────────────┘
-````
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mysql,postgres,mongodb,supabase,firebase,git,github,vscode&perline=8"/>
 
 </div>
 
 ---
 
-# ◈ FEATURED PROJECT
+# 🚀 Current Development Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="300">
+
+### Frontend
+
+React
+Next.js
+TailwindCSS
+JavaScript
+Responsive UI
+
+</td>
+
+<td align="center" width="300">
+
+### Backend
+
+Node.js
+Express.js
+REST APIs
+Authentication
+Microservices
+
+</td>
+
+<td align="center" width="300">
+
+### Database
+
+PostgreSQL
+MySQL
+MongoDB
+Supabase
+SQLite
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🌌 Digital Universe
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🧠 What I Build
+
+<div align="center">
+
+| 💎 Product          | ⚡ Description               |
+| ------------------- | --------------------------- |
+| 🌐 Web Platforms    | Complete end-to-end systems |
+| 📱 Responsive Apps  | Mobile-first experiences    |
+| 🤖 AI Chatbots      | Intelligent 24/7 assistants |
+| 🔥 Custom Solutions | Tailored business software  |
+| ☁ Cloud Systems     | Scalable architectures      |
+
+</div>
+
+---
+
+# 🏆 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌟 Featured Project
 
 <div align="center">
 
 <a href="https://tracyportafolioweb.vercel.app/">
-<img src="https://img.shields.io/badge/🚀_VISIT_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
+
 </a>
 
 </div>
 
-### ✨ Portafolio Profesional
+### ✨ Personal Portfolio
 
-🔹 Diseño moderno
+A modern digital showcase focused on performance, clean design and scalability.
 
-🔹 Optimización de rendimiento
-
-🔹 Arquitectura escalable
-
-🔹 Responsive Design
-
-🔹 Experiencia de usuario premium
-
-🌐 https://tracyportafolioweb.vercel.app/
+🔗 https://tracyportafolioweb.vercel.app/
 
 ---
 
-# ◈ GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tracymoor&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tracymoor&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=tracymoor&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# ◈ CONNECT WITH ME
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -161,11 +189,12 @@ Mi enfoque combina:
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00DBDE,50:FC00FF,100:7F00FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0EA5E9,50:7C3AED,100:EC4899"/>
+
+### ⚡ "Code is not just logic. It's digital art."
 
 </div>
-```
