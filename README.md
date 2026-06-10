@@ -1,26 +1,27 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E293B,100:334155&text=TRACY%20MORIANO&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+# ✦ TRACY MORIANO ✦
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6D28D9,50:8B5CF6,100:38BDF8&text=TRACY%20MORIANO&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER&descAlignY=65"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=7DD3FC&center=true&vCenter=true&width=1000&height=80&lines=Full+Stack+Developer;Web+%26+Mobile+Apps;Chatbots+Inteligentes+24%2F7;Frontend+Developer;Backend+Developer;Arquitectura+de+Software;Sistemas+Escalables" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer;Web+%26+Mobile+Apps;Chatbots+Inteligentes+24%2F7;Frontend+Developer;Backend+Developer;Dise%C3%B1ando+Soluciones+Digitales"/>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzV4cXF6NnVjZmJhdmN0eWk4aW5vMzh6YWV0aW1wa2R4NnQ1Y3lmYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="900"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750723-6e4a9b1e-ccfd-4f4d-9b4f-6e7a0b58e7f0.gif"/>
 
 </div>
 
 ---
 
-# <img width="40" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"> ¡Hola! Soy Tracy Moriano
+# ✨ Sobre mí
 
 <table>
 <tr>
-<td width="60%">
 
-## ✨ Sobre mí
+<td width="60%">
 
 Soy Desarrolladora Full Stack enfocada en crear soluciones digitales completas,
 combinando diseño, lógica, arquitectura y experiencia de usuario.
@@ -32,29 +33,62 @@ negocios a posicionarse con confianza.
 Siempre busco que cada proyecto sea funcional, escalable y bien pensado, más
 allá de lo visual.
 
+### 🚀 Lo que hago
+
+◈ Desarrollo plataformas web end-to-end
+
+◈ Diseño experiencias digitales que transmiten confianza
+
+◈ Construyo sistemas backend robustos y escalables
+
+◈ Integro automatización e inteligencia cuando aporta valor
+
+◈ Acompaño proyectos desde la estrategia hasta producción
+
 </td>
 
-<td width="40%">
+<td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320"/>
+<img width="340" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+<br><br>
+
+<img width="280" src="https://i.imgur.com/LkY4V7M.png"/>
+
+<br>
+
+<b>👩🏻‍💻 Tracy Moriano</b>
+
+<br>
+
+✨ Modelo Virtual 3D
+
+<br>
+
+Cabello negro • Lentes marrón claro • Piel trigueña
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 🚀 Lo que hago
+# ⚡ Dashboard Profesional
 
 <div align="center">
 
-|                                                              |
-| ------------------------------------------------------------ |
-| ⚡ Desarrollo plataformas web end-to-end                      |
-| 🎯 Diseño experiencias digitales que transmiten confianza    |
-| 🧠 Construyo sistemas backend robustos y escalables          |
-| 🤖 Integro automatización e inteligencia cuando aporta valor |
-| 🚀 Acompaño proyectos desde la estrategia hasta producción   |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO&theme=tokyonight"/>
 
 </div>
 
@@ -62,74 +96,47 @@ allá de lo visual.
 
 # 🧰 Stack & Tecnologías
 
+## 🖥️ Frontend
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,express,php,laravel,python,mysql,mongodb,postgres,docker,git,github,vscode&perline=10"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,bootstrap"/>
 
 </div>
 
 ---
 
-# 🖥️ Frontend
+## ⚙️ Backend & Bases de datos
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,vue"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,mysql,mongodb,firebase"/>
 
 </div>
 
 ---
 
-# ⚙️ Backend & Bases de datos
+## 🔧 Flujo de trabajo
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,mysql,mongodb,postgres,firebase"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm"/>
 
 </div>
 
 ---
 
-# 🔧 Flujo de trabajo
+# 🚀 Lo que hago
 
 <div align="center">
 
-```text
-Idea
- │
- ▼
-Diseño UX/UI
- │
- ▼
-Frontend
- │
- ▼
-Backend
- │
- ▼
-Base de Datos
- │
- ▼
-Testing
- │
- ▼
-Deploy
- │
- ▼
-Producción
-```
+<img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=black&textfill=gradient"/>
 
-</div>
+<img src="https://readme-components.vercel.app/api?component=logo&logo=react&fill=black&textfill=gradient"/>
 
----
+<img src="https://readme-components.vercel.app/api?component=logo&logo=node.js&fill=black&textfill=gradient"/>
 
-# 📊 Dashboard Profesional
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=black&textfill=gradient"/>
 
 </div>
 
@@ -137,51 +144,115 @@ Producción
 
 # 🌐 Proyectos Destacados
 
-## 🔹 Portafolio Personal
+<div align="center">
 
-### 👉 https://tracyportafolioweb.vercel.app/
+<a href="https://tracyportafolioweb.vercel.app/">
 
-En cada proyecto priorizo claridad, rendimiento y una base técnica sólida.
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</div>
 
 <br>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="700"/>
+### 🔹 Portafolio Personal
+
+👉 https://tracyportafolioweb.vercel.app/
+
+</div>
+
+<br>
+
+<div align="center">
+
+En cada proyecto priorizo claridad, rendimiento y una base técnica sólida.
 
 </div>
 
 ---
 
-# 🎨 Modelo Virtual 3D
+# 🖥️ Arquitectura Digital
 
 <div align="center">
 
-<img width="350" src="https://cdn3d.iconscout.com/3d/premium/thumb/woman-working-on-laptop-6298545-5187872.png"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/216656982-5c2e6bdf-f6f8-47fb-b60b-2dc7f39f4d8d.gif"/>
 
 </div>
 
-### Características del avatar
+---
 
-✔ Cabello negro
+# 🎯 Especialidades
 
-✔ Lentes marrón claro
+<table align="center">
 
-✔ Piel trigueña
+<tr>
 
-✔ Estilo profesional
+<td align="center">
+💻
+<br>
+Desarrollo Web
+</td>
 
-✔ Apariencia tecnológica
+<td align="center">
+📱
+<br>
+Aplicaciones Responsivas
+</td>
 
-✔ Inspirado en desarrolladora Full Stack
+<td align="center">
+🤖
+<br>
+Chatbots Inteligentes
+</td>
+
+<td align="center">
+⚡
+<br>
+Automatización
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+🔐
+<br>
+Backend Escalable
+</td>
+
+<td align="center">
+☁️
+<br>
+Servicios Cloud
+</td>
+
+<td align="center">
+🎨
+<br>
+Experiencia de Usuario
+</td>
+
+<td align="center">
+🚀
+<br>
+Optimización
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# ⚡ Actividad Visual
+# 🌌 Actividad Visual
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=TUUSUARIO&theme=algolia&no-frame=true&column=6"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b86-4e4a-9d14-4f3c692c4b86.gif"/>
 
 </div>
 
@@ -195,13 +266,19 @@ En cada proyecto priorizo claridad, rendimiento y una base técnica sólida.
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
+ 
+
 <a href="#">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+ 
+
 <a href="#">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
+
+ 
 
 <a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -209,10 +286,16 @@ En cada proyecto priorizo claridad, rendimiento y una base técnica sólida.
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0F172A,50:1E293B,100:334155"/>
+### ✦ Gracias por visitar mi perfil ✦
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Construyendo+experiencias+digitales;Creando+soluciones+escalables;Transformando+ideas+en+proyectos"/>
 
 </div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:6D28D9,50:8B5CF6,100:38BDF8"/>
