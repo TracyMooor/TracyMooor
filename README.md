@@ -1,55 +1,44 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:312E81,35:4F46E5,70:7C3AED,100:38BDF8&text=TRACY%20MORIANO&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:312E81,35:4F46E5,70:7C3AED,100:38BDF8&text=TRACY%20MORIANO&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DESARROLLADORA%20FULL%20STACK&descAlignY=62"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Desarrolladora+de+Soluciones+Digitales;Experiencias+Web+Modernas;Interfaces+Funcionales+y+Elegantes;Arquitectura+y+Tecnolog%C3%ADa"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Creando+Experiencias+Digitales;Aplicaciones+Web+Modernas;Soluciones+Escalables;Dise%C3%B1o+y+Tecnolog%C3%ADa"/>
 
 </div>
 
 ---
 
-# Sobre mí
-
-Soy Tracy Moriano.
-
-Me dedico a crear experiencias digitales modernas, combinando diseño, desarrollo y estrategia para construir productos funcionales, escalables y visualmente atractivos.
-
-Disfruto transformar ideas en plataformas que generen impacto real, cuidando tanto la experiencia del usuario como la calidad técnica detrás de cada solución.
-
----
-
-# Especialidades
-
 <table>
-
 <tr>
 
-<td width="50%">
+<td width="55%">
 
-### Experiencia Digital
+# Sobre mí
 
-* Diseño de interfaces modernas
-* Experiencias responsivas
-* Optimización visual
-* Accesibilidad
+Soy Tracy Moriano, desarrolladora Full Stack apasionada por crear productos digitales que combinan funcionalidad, rendimiento y experiencias de usuario bien diseñadas.
+
+Disfruto transformar ideas en soluciones escalables mediante arquitecturas sólidas, interfaces modernas y buenas prácticas de desarrollo.
+
+### Áreas de enfoque
+
+- Aplicaciones web modernas
+- Interfaces responsivas
+- Sistemas backend
+- Integración de APIs
+- Automatización de procesos
+- Experiencias centradas en el usuario
 
 </td>
 
-<td width="50%">
+<td width="45%" align="center">
 
-### Ingeniería de Software
-
-* Arquitectura Backend
-* APIs e integraciones
-* Automatización
-* Bases de datos
+<img width="380" src="https://i.imgur.com/LkY4V7M.png"/>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -58,17 +47,25 @@ Disfruto transformar ideas en plataformas que generen impacto real, cuidando tan
 
 <div align="center">
 
+### Frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"/>
 
 <br><br>
+
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,python"/>
 
 <br><br>
 
+### Bases de Datos
+
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
 
 <br><br>
+
+### Herramientas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 
@@ -76,23 +73,20 @@ Disfruto transformar ideas en plataformas que generen impacto real, cuidando tan
 
 ---
 
-# En qué trabajo
+# Especialidades
 
-### Desarrollo Web
+<div align="center">
 
-Construcción de aplicaciones modernas enfocadas en rendimiento, escalabilidad y experiencia de usuario.
+| Área | Nivel |
+|--------|--------|
+| Desarrollo Frontend | ████████████████████ |
+| Arquitectura Backend | ██████████████████ |
+| Desarrollo de APIs | ██████████████████ |
+| Diseño de Bases de Datos | ███████████████████ |
+| Implementación UI / UX | ██████████████████ |
+| Automatización de Procesos | █████████████████ |
 
-### Automatización
-
-Optimización de procesos mediante integraciones y flujos inteligentes.
-
-### Sistemas Empresariales
-
-Creación de plataformas adaptadas a necesidades reales de negocio.
-
-### Experiencias Interactivas
-
-Interfaces limpias, intuitivas y centradas en las personas.
+</div>
 
 ---
 
@@ -104,23 +98,57 @@ Interfaces limpias, intuitivas y centradas en las personas.
 
 </div>
 
----
-
-# Perfil Profesional
+<br>
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# Filosofía
+# Lo que me gusta construir
 
-> La tecnología no solo debe funcionar.
->
-> También debe ser intuitiva, eficiente y capaz de generar valor para quienes la utilizan.
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### Plataformas Web
+
+Soluciones escalables, modernas y fáciles de mantener.
+
+</td>
+
+<td align="center" width="25%">
+
+### Interfaces Digitales
+
+Experiencias intuitivas, accesibles y visualmente atractivas.
+
+</td>
+
+<td align="center" width="25%">
+
+### Integraciones
+
+Conexión eficiente entre servicios, sistemas y procesos.
+
+</td>
+
+<td align="center" width="25%">
+
+### Automatización
+
+Optimización de tareas para mejorar productividad y eficiencia.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -150,10 +178,14 @@ Interfaces limpias, intuitivas y centradas en las personas.
 
 <div align="center">
 
-### Gracias por visitar mi perfil
+### Creando soluciones digitales con propósito
 
-Construyendo experiencias digitales con propósito.
+Diseño, tecnología e innovación para construir experiencias que generen valor.
 
 </div>
 
+<br>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:312E81,35:4F46E5,70:7C3AED,100:38BDF8"/>
+
+</div>
