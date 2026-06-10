@@ -1,110 +1,160 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4338CA,50:7C3AED,100:38BDF8&text=Tracy%20Moriano&fontSize=55&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:312E81,35:4F46E5,70:7C3AED,100:38BDF8&text=TRACY%20MORIANO&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=62"/>
 
-# 👋 Hola, soy Tracy Moriano
+<br>
 
-### Full Stack Developer especializada en experiencias web modernas
-
-Construyo plataformas digitales enfocadas en rendimiento,
-escalabilidad y experiencia de usuario.
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+Digital+Experiences;Modern+Web+Applications;Scalable+Backend+Solutions;Creative+Frontend+Development"/>
 
 </div>
 
 ---
 
-## ✨ Sobre mí
+<table>
+<tr>
 
-```javascript
-const tracy = {
-  location: "Perú",
-  role: "Full Stack Developer",
-  focus: [
-    "Web Applications",
-    "Backend Architecture",
-    "User Experience",
-    "Automation"
-  ],
-  currentGoal: "Crear soluciones digitales de alto impacto"
-}
-```
+<td width="55%">
 
----
+# About Me
 
-## 🛠️ Tecnologías
+I'm Tracy Moriano, a Full Stack Developer passionate about creating digital products that combine functionality, performance and thoughtful user experiences.
 
-### Frontend
+I enjoy transforming ideas into scalable solutions through clean architecture, modern interfaces and efficient development practices.
 
-<p>
+### Focus Areas
 
-<img src="https://skillicons.dev/icons?i=html"/>
+* Modern Web Applications
+* Responsive Interfaces
+* Backend Systems
+* API Integrations
+* Process Automation
+* User-Centered Experiences
 
-<img src="https://skillicons.dev/icons?i=css"/>
+</td>
 
-<img src="https://skillicons.dev/icons?i=js"/>
+<td width="45%" align="center">
 
-<img src="https://skillicons.dev/icons?i=ts"/>
+<img width="380" src="https://i.imgur.com/LkY4V7M.png"/>
 
-<img src="https://skillicons.dev/icons?i=react"/>
+</td>
 
-<img src="https://skillicons.dev/icons?i=nextjs"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=php"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-</p>
-
-### Bases de Datos
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-</p>
+</tr>
+</table>
 
 ---
 
-## 🎯 Especialidades
-
-- Desarrollo de aplicaciones web
-- Diseño de interfaces modernas
-- Arquitectura backend
-- APIs REST
-- Integración de servicios externos
-- Automatización de procesos
-
----
-
-## 📈 Actividad
+# Technology Stack
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-dark&hide_border=true"/>
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"/>
+
+<br><br>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python"/>
+
+<br><br>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 
 </div>
 
 ---
 
-## 🌐 Conecta conmigo
+# Expertise
 
-<p align="center">
+<div align="center">
+
+| Area                   | Proficiency          |
+| ---------------------- | -------------------- |
+| Frontend Development   | ████████████████████ |
+| Backend Architecture   | ██████████████████   |
+| API Development        | ██████████████████   |
+| Database Design        | ███████████████████  |
+| UI / UX Implementation | ██████████████████   |
+| Automation Solutions   | █████████████████    |
+
+</div>
+
+---
+
+# Activity Overview
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# What I Enjoy Building
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### Web Platforms
+
+Scalable and maintainable digital products
+
+</td>
+
+<td align="center" width="25%">
+
+### User Interfaces
+
+Clean and responsive experiences
+
+</td>
+
+<td align="center" width="25%">
+
+### Integrations
+
+Connecting services and workflows
+
+</td>
+
+<td align="center" width="25%">
+
+### Automation
+
+Reducing repetitive processes
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# Connect With Me
+
+<div align="center">
 
 <a href="TU_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -114,16 +164,26 @@ const tracy = {
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<a href="TU_FACEBOOK">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
 <a href="TU_PORTAFOLIO">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge"/>
 </a>
 
-</p>
+</div>
 
----
+<br>
 
 <div align="center">
 
-### ✦ Gracias por visitar mi perfil ✦
+### Creating digital solutions with purpose
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:312E81,35:4F46E5,70:7C3AED,100:38BDF8"/>
 
 </div>
