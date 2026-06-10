@@ -56,6 +56,43 @@ Siempre busco que cada proyecto sea funcional, escalable y bien pensado, más al
 
 <div align="center">
 
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+<img width="70" src="https://cdn-icons-png.flaticon.com/512/2721/2721267.png">
+
+### Desarrollo Full Stack
+
+Aplicaciones completas de principio a fin.
+
+</td>
+
+<td align="center" width="33%">
+
+<img width="70" src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png">
+
+### Arquitectura Escalable
+
+Sistemas preparados para crecer.
+
+</td>
+
+<td align="center" width="33%">
+
+<img width="70" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png">
+
+### Automatización
+
+Procesos inteligentes y eficientes.
+
+</td>
+
+</tr>
+</table>
+
 # ⚡ LO QUE HAGO
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7B68EE&height=3&section=header"/>
