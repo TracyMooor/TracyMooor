@@ -1,175 +1,171 @@
-<!-- ========================= -->
+````html
+<!-- ════════════════════════════════════════════════ -->
+<!--               HERO 3D CYBERPUNK                -->
+<!-- ════════════════════════════════════════════════ -->
 
-<!--        HERO SECTION       -->
+<div align="center">
 
-<!-- ========================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00DBDE,50:FC00FF,100:7F00FF&text=TRACY%20MORIANO&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=FULL%20STACK%20DEVELOPER&descAlignY=60" width="100%"/>
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00F5FF,50:8A2BE2,100:FF1493&text=TRACY%20MORIANO&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20🚀&descAlignY=60"/>
-</p>
+</div>
 
-<h1 align="center">
-  👋 Hola, soy Tracy Moriano
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=💻+Full+Stack+Developer;⚡+Frontend+%2B+Backend+Developer;🚀+Web+%26+Mobile+Applications;🤖+Chatbots+Inteligentes+24%2F7;🌎+Construyendo+Experiencias+Digitales" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=1200&height=100&lines=⚡+FULL+STACK+DEVELOPER;🚀+WEB+%26+MOBILE+APPLICATIONS;🤖+AI+CHATBOTS+24%2F7;💎+SCALABLE+SYSTEMS;🌌+DIGITAL+EXPERIENCES" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWg2ZXl3dXk4NmdjMGl0YTh6N2hnZ3V1ZjY5NnQ0dWc1cHh0bXVrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="850">
-</p>
+</div>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=tracymooor&label=PROFILE+VIEWS&style=for-the-badge&color=00F7FF"/>
-<img src="https://img.shields.io/github/followers/tracymooor?style=for-the-badge&color=8A2BE2"/>
-<img src="https://img.shields.io/github/stars/tracymooor?style=for-the-badge&color=FF1493"/>
-</p>
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tracymoor&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
 
 ---
 
-# ✨ Sobre mí
+# ◈ DIGITAL ARCHITECT
 
-Soy **Desarrolladora Full Stack** enfocada en crear soluciones digitales modernas, escalables y orientadas a resultados.
+<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdnOGE0OHJjcGh3bGYxOXV0OGQ5YzR4bW94M2QwMm9iYzI4MHB4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif"/>
 
-Me apasiona construir plataformas web completas, sistemas inteligentes y experiencias digitales que generen confianza y aporten valor real a personas y negocios.
+### ✦ Quién soy
 
-✨ Mi objetivo es combinar:
+Soy **Tracy Moriano**, desarrolladora Full Stack especializada en construir plataformas modernas, escalables y visualmente impactantes.
 
-* Diseño atractivo
-* Arquitectura sólida
-* Alto rendimiento
-* Buena experiencia de usuario
-* Escalabilidad
+Mi enfoque combina:
 
----
+◈ Arquitectura de Software
 
-# 🚀 Lo que hago
+◈ Diseño de Experiencia de Usuario
 
-✅ Desarrollo plataformas web completas
+◈ Desarrollo Frontend Moderno
 
-✅ Diseño interfaces modernas y responsivas
+◈ Backend Escalable
 
-✅ Construyo APIs y arquitecturas backend robustas
+◈ Automatización Inteligente
 
-✅ Integro automatizaciones y chatbots inteligentes
+◈ Soluciones Digitales de Alto Impacto
 
-✅ Optimizo rendimiento y experiencia de usuario
-
-✅ Acompaño proyectos desde la idea hasta producción
+<br>
 
 ---
 
-# 🛠️ Stack Tecnológico
+# ◈ TECH UNIVERSE
 
-## 🎨 Frontend
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,nodejs,express,mysql,postgres,mongodb,supabase,firebase,git,github,vscode&perline=9" />
 
-## ⚙️ Backend
+</div>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
-</p>
+<br>
 
-## 🗄️ Bases de Datos
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase,firebase" />
-</p>
+| Frontend | Backend | Databases | Tools |
+|-----------|-----------|-----------|-----------|
+| React ⚛️ | Node.js ⚙️ | PostgreSQL 🐘 | Git 🔥 |
+| Next.js ▲ | Express 🚀 | MySQL 🛢️ | GitHub 🌌 |
+| JavaScript ✨ | APIs REST 🌐 | MongoDB 🍃 | VS Code 💎 |
+| Tailwind 🎨 | Authentication 🔐 | Supabase ⚡ | Vercel ☁️ |
 
-## ☁️ Herramientas
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,discord,gmail" />
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+# ◈ DEVELOPMENT MATRIX
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tracymooor&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tracymooor&theme=tokyonight&hide_border=true"/>
-</p>
+```text
+┌──────────────────────────────────────────────┐
+│ FRONTEND      ████████████████████ 95%       │
+│ BACKEND       ██████████████████░ 92%        │
+│ DATABASES     █████████████████░░ 90%        │
+│ UI/UX         ███████████████████ 94%        │
+│ DEPLOYMENT    █████████████████░░ 90%        │
+│ AUTOMATION    ████████████████░░░ 88%        │
+└──────────────────────────────────────────────┘
+````
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracymooor&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# ⚡ Actividad
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tracymooor&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
+</div>
 
 ---
 
-# 🌐 Proyecto Destacado
+# ◈ FEATURED PROJECT
 
-### 🚀 Portafolio Profesional
+<div align="center">
 
-🔗 https://tracyportafolioweb.vercel.app/
+<a href="https://tracyportafolioweb.vercel.app/">
+<img src="https://img.shields.io/badge/🚀_VISIT_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-En cada proyecto priorizo:
+</div>
 
-* Rendimiento
-* Escalabilidad
-* Diseño moderno
-* Código limpio
-* Experiencia de usuario
+### ✨ Portafolio Profesional
 
----
+🔹 Diseño moderno
 
-# 🏆 Logros
+🔹 Optimización de rendimiento
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tracymooor&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>
+🔹 Arquitectura escalable
 
----
+🔹 Responsive Design
 
-# 🐍 Contribution Snake
+🔹 Experiencia de usuario premium
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+🌐 https://tracyportafolioweb.vercel.app/
 
 ---
 
-# 🤝 Conectemos
+# ◈ GITHUB ANALYTICS
 
-<p align="center">
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tracymoor&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tracymoor&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=tracymoor&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# ◈ CONNECT WITH ME
+
+<div align="center">
 
 <a href="https://wa.me/51906936891">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/_sooymor/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.facebook.com/hanna.mt.1238">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tracymooor/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
----
+<br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,50:8A2BE2,100:FF1493"/>
-</p>
+<div align="center">
 
-<h3 align="center">
-🚀 Code • Create • Innovate • Inspire
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00DBDE,50:FC00FF,100:7F00FF"/>
+
+</div>
+```
