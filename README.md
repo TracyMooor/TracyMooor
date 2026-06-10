@@ -1,200 +1,229 @@
+<!-- ========================================= -->
+
+<!--           TRACY MORIANO README            -->
+
+<!-- ========================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,20:1E293B,50:0EA5E9,80:7C3AED,100:EC4899&text=TRACY%20MORIANO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20DIGITAL%20CREATOR&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6A5ACD,25:00BFFF,50:7B68EE,75:FF69B4,100:00FFFF&text=TRACY%20MORIANO&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=34&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=1000&lines=⚡+Building+Next+Generation+Applications;🚀+Full+Stack+Developer;🌐+Web+%26+Mobile+Solutions;🤖+Intelligent+Automation+Systems;✨+Transforming+Ideas+Into+Digital+Experiences"/>
+# 𝕿𝖗𝖆𝖈𝖞 𝕸𝖔𝖗𝖎𝖆𝖓𝖔
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=1200&height=100&lines=Full+Stack+Developer;Web+%26+Mobile+Apps;Chatbots+Inteligentes+24%2F7;Frontend+Developer;Backend+Developer"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=tracymoriano&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# <img width="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"> About Me
-
-```yaml
-Name: Tracy Moriano
-
-Role: Full Stack Developer
-
-Location: Peru 🇵🇪
-
-Mission:
-  - Build scalable digital products
-  - Create memorable user experiences
-  - Transform business ideas into software
-
-Focus:
-  Frontend Development
-  Backend Architecture
-  Web Platforms
-  Intelligent Systems
-  Automation Solutions
-```
-
----
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia&row=1&column=7&margin-w=15"/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 </div>
 
----
-
-# ⚡ Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mysql,postgres,mongodb,supabase,firebase,git,github,vscode&perline=8"/>
-
-</div>
-
----
-
-# 🚀 Current Development Stack
-
-<div align="center">
+# ✦ SOBRE MÍ
 
 <table>
 <tr>
-<td align="center" width="300">
+<td width="65%">
 
-### Frontend
+Soy **Desarrolladora Full Stack** enfocada en crear **soluciones digitales completas**, combinando diseño, lógica, arquitectura y experiencia de usuario.
 
-React
-Next.js
-TailwindCSS
-JavaScript
-Responsive UI
+Me especializo en desarrollar plataformas web y sistemas inteligentes que **refuerzan la imagen digital**, optimizan procesos y ayudan a marcas personales y negocios a posicionarse con confianza.
+
+Siempre busco que cada proyecto sea funcional, escalable y bien pensado, más allá de lo visual.
 
 </td>
 
-<td align="center" width="300">
+<td width="35%">
 
-### Backend
-
-Node.js
-Express.js
-REST APIs
-Authentication
-Microservices
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%">
 
 </td>
-
-<td align="center" width="300">
-
-### Database
-
-PostgreSQL
-MySQL
-MongoDB
-Supabase
-SQLite
-
-</td>
-
 </tr>
 </table>
 
+---
+
+<div align="center">
+
+# ⚡ LO QUE HAGO
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7B68EE&height=3&section=header"/>
+
+</div>
+
+<table>
+<tr>
+<td align="center">
+
+🌐
+
+### Desarrollo
+
+Plataformas web end-to-end
+
+</td>
+
+<td align="center">
+
+🎨
+
+### Diseño
+
+Experiencias digitales que transmiten confianza
+
+</td>
+
+<td align="center">
+
+⚙️
+
+### Backend
+
+Sistemas robustos y escalables
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+🤖
+
+### IA
+
+Automatización e inteligencia
+
+</td>
+
+<td align="center">
+
+🚀
+
+### Producción
+
+De la estrategia hasta producción
+
+</td>
+
+<td align="center">
+
+📈
+
+### Escalabilidad
+
+Arquitecturas preparadas para crecer
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧰 STACK & TECNOLOGÍAS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,postgres,mongodb,sqlite,supabase,git,github,vscode,discord,gmail&perline=8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tracymoriano&theme=algolia&no-frame=true&row=1&column=7"/>
+
 </div>
 
 ---
 
-# 🌌 Digital Universe
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🧠 What I Build
-
-<div align="center">
-
-| 💎 Product          | ⚡ Description               |
-| ------------------- | --------------------------- |
-| 🌐 Web Platforms    | Complete end-to-end systems |
-| 📱 Responsive Apps  | Mobile-first experiences    |
-| 🤖 AI Chatbots      | Intelligent 24/7 assistants |
-| 🔥 Custom Solutions | Tailored business software  |
-| ☁ Cloud Systems     | Scalable architectures      |
-
-</div>
-
----
-
-# 🏆 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🌟 Featured Project
+# 🚀 PROYECTOS DESTACADOS
 
 <div align="center">
 
 <a href="https://tracyportafolioweb.vercel.app/">
-
-<img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/PORTAFOLIO%20PERSONAL-00E5FF?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
 </div>
 
-### ✨ Personal Portfolio
+<br>
 
-A modern digital showcase focused on performance, clean design and scalability.
+### 🔹 Portafolio Personal
 
-🔗 https://tracyportafolioweb.vercel.app/
+👉 https://tracyportafolioweb.vercel.app/
+
+En cada proyecto priorizo **claridad, rendimiento y una base técnica sólida**.
 
 ---
 
-# 🌐 Connect With Me
+# 📊 ACTIVIDAD
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tracymoriano&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracymoriano&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tracymoriano&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌌 CONTRIBUCIONES
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🤝 CONECTEMOS
 
 <div align="center">
 
 <a href="https://wa.me/51906936891">
-<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=00FF88"/>
 </a>
 
 <a href="https://www.instagram.com/_sooymor/">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF4DA6"/>
 </a>
 
 <a href="https://www.facebook.com/hanna.mt.1238">
-<img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00BFFF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tracymooor/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0EA5E9,50:7C3AED,100:EC4899"/>
-
-### ⚡ "Code is not just logic. It's digital art."
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:6A5ACD,25:00BFFF,50:7B68EE,75:FF69B4,100:00FFFF"/>
 
 </div>
