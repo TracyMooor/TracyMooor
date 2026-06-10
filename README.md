@@ -1,32 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0f172a,55:1e293b,100:38bdf8&text=TRACY%20MORIANO&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20•%20WEB%20•%20MOBILE%20•%20AUTOMATION&descAlignY=60"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=26&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&height=80&lines=Desarrolladora+Full+Stack;Aplicaciones+Web+y+Mobile;Arquitectura+Escalable;Automatización+Inteligente;Experiencias+Digitales+Modernas;Soluciones+Tecnológicas+de+Alto+Impacto" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=280&color=gradient&customColorList=12,14,18,24,30&text=TRACY%20MORIANO&fontColor=ffffff&fontSize=62&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER&descSize=20"/>
 
 <br>
 
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Desarrolladora+Full+Stack;Aplicaciones+Web+y+Mobile;Arquitectura+Escalable;Automatización+Inteligente;Experiencias+Digitales+Modernas" />
 
-<img src="https://img.shields.io/badge/Full%20Stack-38BDF8?style=for-the-badge&labelColor=020617"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/Web%20Developer-38BDF8?style=for-the-badge&labelColor=020617"/>
-
-<img src="https://img.shields.io/badge/Mobile%20Apps-38BDF8?style=for-the-badge&labelColor=020617"/>
-
-<img src="https://img.shields.io/badge/Automation-38BDF8?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Full%20Stack-0F172A?style=for-the-badge&logo=codefactor&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Web%20Developer-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Mobile%20Apps-0F172A?style=for-the-badge&logo=flutter&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Automation-0F172A?style=for-the-badge&logo=n8n&logoColor=38BDF8"/>
 
 </div>
 
 ---
 
-# ✦ SOBRE MÍ
+# ✦ Sobre mí
 
 <table>
 <tr>
@@ -41,9 +32,9 @@ Siempre busco que cada proyecto sea funcional, escalable y bien pensado, más al
 
 </td>
 
-<td width="35%" align="center">
+<td align="center">
 
-<img width="220" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img width="180" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
 
 </td>
 
@@ -52,73 +43,21 @@ Siempre busco que cada proyecto sea funcional, escalable y bien pensado, más al
 
 ---
 
-# ✦ ESPECIALIDADES
+# ✦ Lo que hago
 
 <div align="center">
 
-<table>
-
-<tr>
-
-<td width="33%" align="center">
-
-<img width="70" src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png">
-
-### Desarrollo Full Stack
-
-Aplicaciones completas de principio a fin.
-
-</td>
-
-<td width="33%" align="center">
-
-<img width="70" src="https://cdn-icons-png.flaticon.com/512/2721/2721291.png">
-
-### Arquitectura Escalable
-
-Sistemas preparados para crecer.
-
-</td>
-
-<td width="33%" align="center">
-
-<img width="70" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png">
-
-### Automatización
-
-Procesos inteligentes y eficientes.
-
-</td>
-
-</tr>
-
-</table>
+| | | |
+|:-:|:-:|:-:|
+| <img width="55" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png"> | <img width="55" src="https://cdn-icons-png.flaticon.com/512/8637/8637097.png"> | <img width="55" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png"> |
+| **Desarrollo Full Stack** | **Arquitectura Escalable** | **Automatización** |
+| Aplicaciones completas de principio a fin. | Sistemas preparados para crecer. | Procesos inteligentes y eficientes. |
 
 </div>
 
 ---
 
-# ✦ DASHBOARD TECNOLÓGICO
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TracyMooor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TracyMooor&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TracyMooor&theme=tokyonight"/>
-
-</div>
-
----
-
-# ✦ STACK TECNOLÓGICO
+# ✦ Stack & Tecnologías
 
 <div align="center">
 
@@ -128,21 +67,33 @@ Procesos inteligentes y eficientes.
 
 <br><br>
 
-### Backend
+### Backend & Bases de Datos
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,supabase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,sqlite,supabase"/>
 
 <br><br>
 
-### Herramientas
+### Flujo de trabajo
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,discord"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,discord,gmail"/>
 
 </div>
 
 ---
 
-# ✦ VISIÓN DE DESARROLLO
+# ✦ Dashboard
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TracyMooor&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TracyMooor&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# ✦ Especialización
 
 <div align="center">
 
@@ -159,67 +110,43 @@ Arquitectura    █████████████████░░░ 87%
 
 ---
 
-# ✦ FLUJO DE CONSTRUCCIÓN
+# ✦ Proyectos Destacados
 
-```mermaid
-flowchart LR
+### 🌐 Portafolio Personal
 
-A[Idea] --> B[Diseño]
-B --> C[Frontend]
-C --> D[Backend]
-D --> E[Base de Datos]
-E --> F[Testing]
-F --> G[Deploy]
-G --> H[Escalabilidad]
-```
+👉 https://tracyportafolioweb.vercel.app/
+
+En cada proyecto priorizo **claridad, rendimiento y una base técnica sólida**.
 
 ---
 
-# ✦ PROYECTO DESTACADO
+# ✦ Filosofía
 
-<div align="center">
-
-<img width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-</div>
-
-### Portafolio Personal
-
-🌐 https://tracyportafolioweb.vercel.app/
-
-En cada proyecto priorizo claridad, rendimiento y una base técnica sólida.
+> Diseñar con propósito.  
+> Desarrollar con calidad.  
+> Automatizar con inteligencia.  
+> Escalar con visión.
 
 ---
 
-# ✦ FILOSOFÍA
-
-```txt
-Diseñar con propósito.
-Desarrollar con calidad.
-Automatizar con inteligencia.
-Escalar con visión.
-```
-
----
-
-# ✦ CONECTEMOS
+# ✦ Conectemos
 
 <div align="center">
 
 <a href="https://wa.me/51906936891">
-<img src="https://img.shields.io/badge/WhatsApp-0F172A?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
+<img src="https://img.shields.io/badge/WhatsApp-111827?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
 </a>
 
 <a href="https://www.instagram.com/_sooymor/">
-<img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
 <a href="https://www.facebook.com/hanna.mt.1238">
-<img src="https://img.shields.io/badge/Facebook-0F172A?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
+<img src="https://img.shields.io/badge/Facebook-111827?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tracymooor/">
-<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 </div>
@@ -228,6 +155,6 @@ Escalar con visión.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,50:0f172a,100:38bdf8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,14,18,24,30"/>
 
 </div>
