@@ -40,6 +40,7 @@ Disfruto transformar ideas en soluciones escalables mediante arquitecturas sóli
 
 </tr>
 </table>
+
 ---
 
 # Tecnologías
@@ -84,26 +85,6 @@ Disfruto transformar ideas en soluciones escalables mediante arquitecturas sóli
 | Diseño de Bases de Datos | ███████████████████ |
 | Implementación UI / UX | ██████████████████ |
 | Automatización de Procesos | █████████████████ |
-
-</div>
-
----
-
-# Actividad
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
