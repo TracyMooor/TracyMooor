@@ -30,7 +30,7 @@ Disfruto transformar ideas en soluciones escalables mediante arquitecturas sóli
 - Automatización de procesos
 - Experiencias centradas en el usuario
 
-### Confidencialidad de proyectos: Por acuerdos de confidencialidad con las empresas para las que he trabajado, mantengo privados los proyectos desarrollados en el ámbito laboral.
+# Confidencialidad de proyectos: Por acuerdos de confidencialidad con las empresas para las que he trabajado, mantengo privados los proyectos desarrollados en el ámbito laboral.
 
 
 </td>
