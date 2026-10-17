@@ -19,7 +19,7 @@
 
 Soy Tracy Moriano, desarrolladora Full Stack apasionada por crear productos digitales que combinan funcionalidad, rendimiento y experiencias de usuario bien diseñadas.
 
-Disfruto transformar ideas en soluciones escalables mediante arquitecturas sólidas, interfaces modernas y buenas prácticas de desarrollo.
+Disfruto transformar ideas en soluciones escalables mediante arquitecturas sólidas, interfaces intuitivas y buenas prácticas de desarrollo.
 
 ### Áreas de enfoque
 
@@ -29,6 +29,9 @@ Disfruto transformar ideas en soluciones escalables mediante arquitecturas sóli
 - Integración de APIs
 - Automatización de procesos
 - Experiencias centradas en el usuario
+
+### Confidencialidad de proyectos: Por acuerdos de confidencialidad con las empresas para las que he trabajado, mantengo privados los proyectos desarrollados en el ámbito laboral.
+
 
 </td>
 
