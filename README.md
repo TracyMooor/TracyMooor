@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Creando+Experiencias+Digitales;Aplicaciones+Web+Modernas;Soluciones+Escalables;Dise%C3%B1o+y+Tecnolog%C3%ADa"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Desarrollo+Frontend+%26+Backend;Interfaces+Web+Responsivas;APIs+REST+%26+Integraci%C3%B3n;Arquitectura+de+Software;Bases+de+Datos+%26+Optimizaci%C3%B3n;Aplicaciones+Full+Stack;Soluciones+Digitales+Escalables" />
 
 </div>
 
