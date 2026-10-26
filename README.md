@@ -37,7 +37,7 @@ Disfruto transformar ideas en soluciones escalables mediante arquitecturas sóli
 
 <td width="45%" align="center">
 
-<img src="tracy.jpeg" width="320" alt="Tracy Moriano"/>
+<img src="sobremitracy1.jpeg" width="320" alt="Tracy Moriano"/>
 
 </td>
 
