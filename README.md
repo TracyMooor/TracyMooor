@@ -139,15 +139,15 @@ Optimización de tareas para mejorar productividad y eficiencia.
 
 <div align="center">
 
-<a href="TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/tracymooor/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="TU_INSTAGRAM">
+<a href="https://www.instagram.com/_sooymor/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="TU_FACEBOOK">
+<a href="https://www.facebook.com/hanna.mt.1238">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
