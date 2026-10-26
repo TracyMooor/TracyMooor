@@ -15,7 +15,7 @@
 
 <td width="55%">
 
-# Sobre mí
+# Sobre mí 
 
 Soy Tracy Moriano, desarrolladora Full Stack apasionada por crear productos digitales que combinan funcionalidad, rendimiento y experiencias de usuario bien diseñadas.
 
